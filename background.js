@@ -1,9 +1,7 @@
 'use strict';
 
 chrome.tabs.onUpdated.addListener(function(tabId, changeInfo, tab) {
-   var unwantedBaseUrls = ["bbc.co.uk",
-                           "facebook.com",
-                           "goal.com"];
+   var unwantedBaseUrls = chrome.storage.sync.get({sitesToBlockCSV: ''}).split(/,/);
    var chosenURL = changeInfo.url;
    if (chosenURL === undefined) {
 	   return;

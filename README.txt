@@ -4,4 +4,4 @@ And w.r.t. using existing extensions generally, articles like  https://arstechni
 
 To add extension in developer mode, chrome://extensions, unpack directory.  Can also enable/disable here.
 
-Current (temporary?) implementation: List of websites to disable in the .js file, any partial match is made.
+List of websites to disable in the options menu (right-click on extension in toolbar), any partial match is made.
