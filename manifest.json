@@ -1,0 +1,11 @@
+  {
+    "name": "Block websites",
+    "version": "0.1",
+    "description": "My first Chrome extension",
+	"permissions": ["tabs"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "manifest_version": 2
+  }

@@ -1,0 +1,4 @@
+Editable (via Chrome) list of blocked websites/substrings
+Publish it.
+(low) Rerouting/alerting to be better on block. Alerts are annoying and may be multiple alerts.
+(low) Match on domain only.
