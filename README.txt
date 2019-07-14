@@ -8,4 +8,4 @@ To add extension in developer mode, chrome://extensions, unpack directory.  Can 
 
 List of websites to disable in the options menu (right-click on extension in toolbar), anything listed (and their superstrings) will not be visitable (minor exemptions).
 
-Files in zip for Chrome extension: background.js, manifest.json, options.js, options.html
+Files in zip for Chrome extension: background.js, manifest.json, options.js, options.html, images folder
