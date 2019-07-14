@@ -7,3 +7,5 @@ And w.r.t. using existing extensions generally, articles like  https://arstechni
 To add extension in developer mode, chrome://extensions, unpack directory.  Can also enable/disable here.
 
 List of websites to disable in the options menu (right-click on extension in toolbar), anything listed (and their superstrings) will not be visitable (minor exemptions).
+
+Files in zip for Chrome extension: background.js, manifest.json, options.js, options.html

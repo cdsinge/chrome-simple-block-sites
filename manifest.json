@@ -1,5 +1,5 @@
   {
-    "name": "Block websites",
+    "name": "Block websites please",
     "version": "0.2",
     "description": "My first Chrome extension",
 	"permissions": ["tabs", "storage"],
