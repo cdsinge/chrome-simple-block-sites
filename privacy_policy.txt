@@ -1,0 +1,7 @@
+"Block websites please" Privacy policy
+
+This Chrome extension collects the URL you visit in Chrome, and uses it only within Chrome, solely to check it against the list of blocked CSVs and then immediately discards this data.
+This extension also collects the list of sites you wish to block (you can manually enter this via the options input form), this list is stored in your Chrome storage and is not stored in an encrypted format, so please do not store confidential information in this list.
+While this extension will not use this list for any other purpose, and expect any used data to only remain in your Chrome storage on your devices, other extensions etc could access this data.
+
+Contact for any queries: chromeextension@cdmonkey.uk
